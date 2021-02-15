@@ -1,0 +1,5 @@
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Release\netcoreapp3.1\publish\Otoplenie_Smetki.exe
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Release\netcoreapp3.1\publish\Otoplenie_Smetki.dll
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Release\netcoreapp3.1\publish\Otoplenie_Smetki.deps.json
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Release\netcoreapp3.1\publish\Otoplenie_Smetki.runtimeconfig.json
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Release\netcoreapp3.1\publish\Otoplenie_Smetki.pdb

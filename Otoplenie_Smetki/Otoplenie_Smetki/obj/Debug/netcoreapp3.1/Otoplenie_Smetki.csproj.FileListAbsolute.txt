@@ -1,0 +1,13 @@
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Debug\netcoreapp3.1\Otoplenie_Smetki.exe
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Debug\netcoreapp3.1\Otoplenie_Smetki.deps.json
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Debug\netcoreapp3.1\Otoplenie_Smetki.runtimeconfig.json
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Debug\netcoreapp3.1\Otoplenie_Smetki.runtimeconfig.dev.json
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Debug\netcoreapp3.1\Otoplenie_Smetki.dll
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\bin\Debug\netcoreapp3.1\Otoplenie_Smetki.pdb
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.csprojAssemblyReference.cache
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.AssemblyInfoInputs.cache
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.AssemblyInfo.cs
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.csproj.CoreCompileInputs.cache
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.dll
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.pdb
+C:\Users\krysy\source\repos\Otoplenie_Smetki\Otoplenie_Smetki\obj\Debug\netcoreapp3.1\Otoplenie_Smetki.genruntimeconfig.cache
